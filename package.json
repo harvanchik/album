@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.0.3",
-    "@tailwindcss/container-queries": "^0.1.1"
+    "@tailwindcss/container-queries": "^0.1.1",
+    "html2canvas-pro": "^1.5.8"
   }
 }
